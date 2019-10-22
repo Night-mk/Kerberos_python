@@ -1,0 +1,6 @@
+# database 不上传
+/database/
+
+# 测试代码不上传
+# /Kerberos/
+# /test/
